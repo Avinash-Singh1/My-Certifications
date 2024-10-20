@@ -55,6 +55,15 @@ Welcome to my Certifications Portfolio! Below is a collection of certifications 
    - **Certificate URL**: [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LEB9M6L2LV7Y)
 
 ---
+### 4. **[Web Scraping in Python Selenium, Scrapy]**
+   - **Issuing Organization**: [Udemy]
+   - **Date Achieved**: [Month, Year]
+   - **Description**: A specialized certification in [Field/Technology], enhancing skills in areas such as:
+     - Topic 1
+     - Topic 2
+   - **Certificate URL**: [View Certificate](https://www.udemy.com/certificate/UC-829a1d19-7f3f-43fe-9864-bc57e7d7304e/)
+
+---
 
 ## 💻 Key Skills Gained from Certifications
 Some of the skills and knowledge I've developed through these certifications include:
