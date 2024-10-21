@@ -9,7 +9,14 @@ Welcome to my Certifications Portfolio! Below is a collection of certifications 
 ### 1. **Atlassian Agile Project Management Professional Certificate**
    - **Issuing Organization**: [ATLASSIAN]
    - **Date Achieved**: [Month, Year]
-   - **Description**: A brief overview of the certification's coverage, including key skills or topics. This certification focuses on [Skillset or Technology].
+   - **Description**: 
+- Agile project management principles and practices.
+- How to use Atlassian tools like Jira and Trello to manage projects efficiently.
+- Managing sprints, backlogs, and team workflows.
+- Optimizing project tracking and reporting using Agile methodologies.
+- Facilitating effective team collaboration and communication.
+- Implementing Agile frameworks such as Scrum and Kanban.
+Best practices for leading Agile teams in dynamic work environments.
    - **Certificate URL**: [View Certificate](https://www.linkedin.com/learning/certificates/f4414f2df6fd477c6a429390dcffc1335094c7cd45e2f084b7470a5ff2004a10)
 
 ---
@@ -17,10 +24,14 @@ Welcome to my Certifications Portfolio! Below is a collection of certifications 
 ### 2. **Career Essentials in GitHub Professional Certificate**
    - **Issuing Organization**: [GitHub]
    - **Date Achieved**: [OCT, 2024]
-   - **Description**: This certification validates proficiency in [Skillset/Technology/Tool]. Key topics covered include:
-     - Topic 1
-     - Topic 2
-     - Topic 3
+   - **Description**: 
+- How to create and manage GitHub repositories.
+- Collaboration techniques using Git and GitHub.
+- Managing branches, pull requests, and code reviews.
+- Leveraging GitHub Actions for automation and CI/CD pipelines.
+- Best practices for using GitHub in team-based projects.
+- Using GitHub for version control in software development.
+- Navigating GitHub’s interface and advanced features for productivity.
    - **Certificate URL**: [View Certificate]([https://www.linkedin.com/learning/certificates/357a64360c3dfcdb21269de69f3c7cdc68a230141d282ea4a1312574646cb4d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gf3lqObS9S%2B8XDunTDz1Q%3D%3D](https://www.linkedin.com/learning/certificates/357a64360c3dfcdb21269de69f3c7cdc68a230141d282ea4a1312574646cb4d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BELlrrpspQyibk%2FaFKiLbCw%3D%3D))
 
 ---
