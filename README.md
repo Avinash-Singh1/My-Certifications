@@ -6,28 +6,28 @@ Welcome to my Certifications Portfolio! Below is a collection of certifications 
 
 ## 🏆 Certifications
 
-### 1. **[Atlassian Agile Project Management Professional Certificate]**
+### 1. **Atlassian Agile Project Management Professional Certificate**
    - **Issuing Organization**: [ATLASSIAN]
    - **Date Achieved**: [Month, Year]
-   - **Description**: A brief overview of what the certification covers, including key skills or topics. This certification focuses on [Skillset or Technology].
+   - **Description**: A brief overview of the certification's coverage, including key skills or topics. This certification focuses on [Skillset or Technology].
    - **Certificate URL**: [View Certificate](https://www.linkedin.com/learning/certificates/f4414f2df6fd477c6a429390dcffc1335094c7cd45e2f084b7470a5ff2004a10)
 
 ---
 
-### 2. **[Agile Methodologies GitHub logo Career Essentials in GitHub Professional Certificate]**
+### 2. **Career Essentials in GitHub Professional Certificate**
    - **Issuing Organization**: [GitHub]
-   - **Date Achieved**: [Month, Year]
+   - **Date Achieved**: [OCT, 2024]
    - **Description**: This certification validates proficiency in [Skillset/Technology/Tool]. Key topics covered include:
      - Topic 1
      - Topic 2
      - Topic 3
-   - **Certificate URL**: [View Certificate]((https://www.linkedin.com/learning/certificates/357a64360c3dfcdb21269de69f3c7cdc68a230141d282ea4a1312574646cb4d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gf3lqObS9S%2B8XDunTDz1Q%3D%3D))
+   - **Certificate URL**: [View Certificate]([https://www.linkedin.com/learning/certificates/357a64360c3dfcdb21269de69f3c7cdc68a230141d282ea4a1312574646cb4d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B5gf3lqObS9S%2B8XDunTDz1Q%3D%3D](https://www.linkedin.com/learning/certificates/357a64360c3dfcdb21269de69f3c7cdc68a230141d282ea4a1312574646cb4d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BELlrrpspQyibk%2FaFKiLbCw%3D%3D))
 
 ---
 
-### 3. **[SQL and Relational Databases 101]**
+### 3. **SQL and Relational Databases 101**
    - **Issuing Organization**: [IBM]
-   - **Date Achieved**: [Month, Year]
+   - **Date Achieved**: [SEP, 2024]
    - **Description**: This course/certification focuses on [Brief Summary of the Certification]. Key learning areas include:
      - Skill 1
      - Skill 2
@@ -38,7 +38,7 @@ Welcome to my Certifications Portfolio! Below is a collection of certifications 
 
 ### 4. **[Ultimate AWS Certified Cloud Practitioner CLF-C02]**
    - **Issuing Organization**: [Udemy]
-   - **Date Achieved**: [Month, Year]
+   - **Date Achieved**: [AUG, 2024]
    - **Description**: A specialized certification in [Field/Technology], enhancing skills in areas such as:
      - Topic 1
      - Topic 2
@@ -46,21 +46,28 @@ Welcome to my Certifications Portfolio! Below is a collection of certifications 
 
 ---
 
-### 4. **[Google IT Automation with Python]**
+### 4. **Google IT Automation with Python**
    - **Issuing Organization**: [Google, Coursera]
-   - **Date Achieved**: [Month, Year]
-   - **Description**: A specialized certification in [Field/Technology], enhancing skills in areas such as:
-     - Topic 1
-     - Topic 2
+   - **Date Achieved**: [DEC, 2022]
+   - **Description**: This six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help them advance their careers. The hands-on curriculum is designed to teach learners how to write code in Python, with a special focus on how this applies to automating tasks in the world of IT support and systems administration. Those who received this certificate passed all graded assessments with a score of 80% or above. They should have a strong foundation in how to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud in order to prepare them for more advanced IT Support Specialist or Junior Systems Administrator positions.
+    
+  
    - **Certificate URL**: [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LEB9M6L2LV7Y)
 
 ---
-### 4. **[Web Scraping in Python Selenium, Scrapy]**
+### 4. **Web Scraping in Python Selenium, Scrapy**
    - **Issuing Organization**: [Udemy]
-   - **Date Achieved**: [Month, Year]
+   - **Date Achieved**: [JULY, 2022]
    - **Description**: A specialized certification in [Field/Technology], enhancing skills in areas such as:
-     - Topic 1
-     - Topic 2
+     - How to scrape websites from scratch with Beautiful Soup
+     - Key fundamentals (Python, HTML, XPath) essential for web scraping
+     - Using ChatGPT to assist in web scraping tasks
+     - Working through 4 web scraping projects, from beginner to advanced
+     - Handling pagination with any scraping tool
+     - Scraping JavaScript-heavy websites with Selenium and Scrapy-Splash
+     - Storing extracted data in MongoDB and SQLite3
+     - Scraping infinite scroll websites
+     - Logging into websites using Selenium and Scrapy
    - **Certificate URL**: [View Certificate](https://www.udemy.com/certificate/UC-829a1d19-7f3f-43fe-9864-bc57e7d7304e/)
 
 ---
@@ -78,8 +85,8 @@ Some of the skills and knowledge I've developed through these certifications inc
 ## 📬 Contact
 Want to know more about my certifications or collaborate on a project? Feel free to reach out!
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)
+- **Email**: aavinash.singgh@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/avinashsinghh/)
+
 
 Thanks for checking out my certifications portfolio! 😊
