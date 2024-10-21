@@ -8,7 +8,7 @@ Welcome to my Certifications Portfolio! Below is a collection of certifications 
 
 ### 1. **Atlassian Agile Project Management Professional Certificate**
    - **Issuing Organization**: Atlassian
-   - **Date Achieved**: [Month, Year]
+   - **Date Achieved**: [OCT, 2024]
    - **Description**: 
      - Mastered agile project management principles and practices.
      - Utilized Atlassian tools like Jira and Trello for efficient project management.
@@ -96,11 +96,14 @@ Welcome to my Certifications Portfolio! Below is a collection of certifications 
 
 ## 💻 Key Skills Gained from Certifications
 Some of the skills and knowledge I've developed through these certifications include:
-- **Programming Languages**: JavaScript, Python, Java, etc.
-- **Web Development**: HTML, CSS, React, Node.js
-- **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Data Analysis**: SQL, Data Visualization, Machine Learning
-- **Project Management**: Agile, Scrum, Kanban
+- **Programming Languages**: JavaScript/TypeScript, Python, C++, Java, PHP, SQL.
+- **Web Development Frameworks/Technologies**: Angular, React.js, jQuery, Node.js, RxJS, REST API, Microservices.
+- **Database Technologies**: MongoDB, MySQL.
+- **Cloud Platforms**: Amazon Web Services (AWS), Azure.
+- **DevOps Practices**: CI/CD pipelines, GitHub.
+- **Operating Systems**: Linux.
+- **Data Analysis**: Data Visualization, Machine Learning.
+- **Project Management**: Agile, Scrum, Kanban.
 
 ---
 
