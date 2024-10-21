@@ -68,7 +68,12 @@ Welcome to my Certifications Portfolio! Below is a collection of certifications 
 ### 4. **Google IT Automation with Python**
    - **Issuing Organization**: [Google, Coursera]
    - **Date Achieved**: [DEC, 2022]
-   - **Description**: This six-course certificate, developed by Google, is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help them advance their careers. The hands-on curriculum is designed to teach learners how to write code in Python, with a special focus on how this applies to automating tasks in the world of IT support and systems administration. Those who received this certificate passed all graded assessments with a score of 80% or above. They should have a strong foundation in how to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud in order to prepare them for more advanced IT Support Specialist or Junior Systems Administrator positions.
+   - **Description**: 
+         - Completed a professional certificate in IT Automation with Python, focusing on essential programming and automation skills.
+         - Gained proficiency in Python programming for automating IT tasks and processes.
+         - Developed strong expertise in using Git and GitHub for version control and collaboration.
+         - Acquired skills in troubleshooting and debugging complex IT problems efficiently.
+         - Gained practical experience in applying automation using configuration management and cloud technologies.
      - **Certificate URL**: [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LEB9M6L2LV7Y)
 
 ---
